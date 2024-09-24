@@ -1,0 +1,6 @@
+﻿un,pwd,hospital_readmission,comment,programs,facility,visit_date,
+John Doe,ThisIsNotAPassword,Yes,Body pains in the joints,Medicaid,Hongkong CURA Healthcare Center,26/09/2024,
+John Doe,ThisIsNotAPassword,No,fever,Medicare,Tokyo CURA Healthcare Center,27/09/2024,
+John Doe,ThisIsNotAPassword,Yes,cough & cold,None,Seoul CURA Healthcare Center,28/09/2024,
+John Doe,ThisIsNotAPassword,No,vaccination,Medicare,Tokyo CURA Healthcare Center,26/10/2024,
+John Doe,ThisIsNotAPassword,Yes,2nd opinion,None,Seoul CURA Healthcare Center,27/10/2024
